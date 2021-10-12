@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/modern-todo-web-app/static/css/main.d5aff03a.chunk.css",
+    "main.js": "/modern-todo-web-app/static/js/main.8d463f98.chunk.js",
+    "main.js.map": "/modern-todo-web-app/static/js/main.8d463f98.chunk.js.map",
+    "runtime-main.js": "/modern-todo-web-app/static/js/runtime-main.a0273df7.js",
+    "runtime-main.js.map": "/modern-todo-web-app/static/js/runtime-main.a0273df7.js.map",
+    "static/js/2.02ba3437.chunk.js": "/modern-todo-web-app/static/js/2.02ba3437.chunk.js",
+    "static/js/2.02ba3437.chunk.js.map": "/modern-todo-web-app/static/js/2.02ba3437.chunk.js.map",
+    "index.html": "/modern-todo-web-app/index.html",
+    "static/css/main.d5aff03a.chunk.css.map": "/modern-todo-web-app/static/css/main.d5aff03a.chunk.css.map",
+    "static/js/2.02ba3437.chunk.js.LICENSE.txt": "/modern-todo-web-app/static/js/2.02ba3437.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0273df7.js",
+    "static/js/2.02ba3437.chunk.js",
+    "static/css/main.d5aff03a.chunk.css",
+    "static/js/main.8d463f98.chunk.js"
+  ]
+}
