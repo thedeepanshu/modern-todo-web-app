@@ -59,7 +59,7 @@ const Login = () => {
     <>
       <div className="login__box">
         <div className="imageBx">
-          <img src="images/login.svg" alt="loginsvgimage" />
+          <img src={ process.env.PUBLIC_URL + '/images/login.svg' } alt="loginsvgimage" />
         </div>
         <form className="form">
           <Input
