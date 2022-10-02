@@ -5,7 +5,7 @@ const EmptyTodo = () => {
       <div className="empty__todoBx__image__wrapper">
         <img
           className="empty__todoBx__image"
-          src="images/notodo04.svg"
+          src={ process.env.PUBLIC_URL + '/images/notodo04.svg' }
           alt="nodata.svg"
         />
         <p className="empty__todoBx__desc">You don't have any task todo.</p>

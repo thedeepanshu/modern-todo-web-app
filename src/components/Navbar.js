@@ -22,7 +22,7 @@ const Navbar = () => {
           <NavLink to="/" className="link">
             <div className="logo">
               <div className="logo__image">
-                <img src="images/notodo01.svg" alt="undraw.co_notodo.svg" />
+                <img src={ process.env.PUBLIC_URL + '/images/notodo01.svg' } alt="undraw.co_notodo.svg" />
               </div>
               <h3 className="logo__title">TodoNote</h3>
             </div>

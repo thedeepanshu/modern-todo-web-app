@@ -5,7 +5,7 @@ const PageNotFound = () => {
   return (
     <>
       <div className="no__page__found__image__box">
-        <img src="/images/pageNotFound.svg" alt="404__image" />
+        <img src={process.env.PUBLIC_URL + '/images/pageNotFound.svg' } alt="404__image" />
       </div>
       <Link to="/list-tasks" className="link">
         <Button

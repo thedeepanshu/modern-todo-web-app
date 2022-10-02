@@ -50,7 +50,7 @@ const AddTodo = () => {
       {user && (
         <>
           <div className="imageBx" id="addTodoimage">
-            <img src="images/addTodo01.svg" alt="list-svg" />
+            <img src={ process.env.PUBLIC_URL + '/images/addTodo01.svg' } alt="list-svg" />
           </div>
           <div className="input__box">
             <form className="form" style={{ padding: "0px" }}>
